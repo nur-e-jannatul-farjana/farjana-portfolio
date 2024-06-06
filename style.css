@@ -1,5 +1,9 @@
 body{
     font-family: "Poppins", sans-serif;
+    margin: auto;
+    width: 70%;
+   padding: 10px 40px;
+   
     
   
 }
@@ -7,4 +11,32 @@ body{
 h1{
     font-weight: 400;
     font-style: normal;
+    font-style: italic;
+}
+h3
+{
+    color: cornflowerblue;
+  
+}
+
+.color-red
+{
+    color: crimson;
+}
+section
+{
+    display: flex;
+}
+.half
+{
+    width: 50%;
+}
+.half img
+{
+    width: 80%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 80%;
+
 }
