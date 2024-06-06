@@ -12,6 +12,7 @@ h1{
     font-weight: 400;
     font-style: normal;
     font-style: italic;
+    
 }
 h3
 {
@@ -22,21 +23,27 @@ h3
 .color-red
 {
     color: crimson;
+    
 }
 section
 {
     display: flex;
+    margin-bottom: 30px;
+
 }
 .half
 {
     width: 50%;
+    text-align: center;
 }
 .half img
 {
     width: 80%;
-    display: block;
+}
+.center
+{
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-right: 80%;
-
+  width: 50%;
 }
