@@ -62,5 +62,9 @@ section
 }
 .image-width
 {
-    width: 5%;
+    width: 2%;
+}
+
+footer p{
+    text-align: center;
 }
