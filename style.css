@@ -47,3 +47,20 @@ section
   margin-right: auto;
   width: 50%;
 }
+.skill
+{
+    width: 50%;
+    
+}
+.link-button
+{
+    color: black;
+  text-decoration: none;
+  background-color: darkorange;
+  padding: 20px;
+  border-radius: 20px;
+}
+.image-width
+{
+    width: 5%;
+}
